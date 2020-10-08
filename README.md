@@ -15,4 +15,5 @@ This main functions, which were implemented by C# based on the platform of Arcen
 2) Criterion 1-6
 3) sub-trajectory point extraction
 4) Optimizing by morphological methods
+
 #(3) Link fitting
