@@ -10,6 +10,7 @@
 5) "3filtration.py": Removeing pseudo intersections that fall outside the road
 
 #(2) Link identification
+
 This main functions, which were implemented by C# based on the platform of Arcengine, are listed as follows: 
 1) deleting peripheral long and narrow triangles
 2) Criterion 1-6
